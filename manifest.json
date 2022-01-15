@@ -3,13 +3,21 @@
     "description": "Play an Nakiri Ayame noise directly from your browser!",
     "version": "1.0",
     "manifest_version": 3,
-    "action": {
-      "default_popup": "popup.html",
-      "default_icon": {
+    "icons": {
         "16": "/media/image/icon/16.jpg",
         "32": "/media/image/icon/32.jpg",
         "48": "/media/image/icon/48.jpg",
         "128": "/media/image/icon/128.jpg"
-      }
+      },
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Play Ayame noise",
+      "default_icon": {            
+        "16": "/media/image/icon/16.jpg",
+        "32": "/media/image/icon/32.jpg",
+        "48": "/media/image/icon/48.jpg",
+        "128": "/media/image/icon/128.jpg"
+      },
+      "author": "FoxStudio Webdevelopment"
     }
   }
