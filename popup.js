@@ -1,5 +1,5 @@
-    let randomInt = Math.floor(Math.random() * 4);
-    let audio = new Audio(`/media/sound/${randomInt}.mp3`);
+    const randomInt = Math.floor(Math.random() * 4);
+    const audio = new Audio(`/media/sound/${randomInt}.mp3`);
     const text = [
         "eeeeeee. YADA!",
         "unintelligible",
