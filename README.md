@@ -4,4 +4,4 @@
 
 Plays a random Nakiri Ayame sound in your browser tab
 <br>
-Current voice count: **50 unique voices**
+Current voice count: **51 unique voices**
