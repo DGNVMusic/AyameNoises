@@ -1,4 +1,4 @@
-    const randomInt = Math.floor(Math.random() * 49); //Get a random integer 0 - 49 (50 files)
+    const randomInt = Math.floor(Math.random() * 50); //Get a random integer 0 - 50 (51 files)
     const audio = new Audio(`/media/sound/ayamenoise${randomInt}.mp3`); // Load the sound file based on the randomInt variable
     const text = [
         "Eeeeeee.YADA!",
@@ -50,7 +50,8 @@
         "unintelligible,",
         "*pain*",
         "n~",
-        "yada, yada, YADAAA, *crying*"
+        "yada, yada, YADAAA, *crying*",
+        "I love you~ I need you~"
 
     ]; // construct the array with text
     const quote = document.getElementById("quote") // get quote element
