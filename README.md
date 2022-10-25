@@ -1,10 +1,15 @@
 
 # AyameNoises
-[![Chrome Status](https://img.shields.io/badge/Chrome%20Status-Published-19ba00?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333)](https://chrome.google.com/webstore/detail/ayame-noises/adjgpdjmlhloeacjfandkafohmcdhfpm) 
+[![Chrome Status](https://img.shields.io/badge/Chrome%20Status-Published-19ba00?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333)](https://chrome.google.com/webstore/detail/ayame-noises/adjgpdjmlhloeacjfandkafohmcdhfpm)
+<br>
 ![Manifest version](https://img.shields.io/badge/Chrome%20Manifest%20Version-v3-F0B6D5?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333) 
+<br>
 ![Version](https://img.shields.io/badge/Version-v1.1-ef0000?style=for-the-badge&labelColor=333333) 
+<br>
+![Beta Version](https://img.shields.io/badge/Version-v1.2-ef0000?style=for-the-badge&labelColor=333333) 
+<br>
 ![Cups of coffee](https://img.shields.io/badge/Cups%20of%20coffee%20wasted-45-900c3f?logo=ko-fi&style=for-the-badge&logoColor=white&labelColor=333333)<br>
-
+<br>
 Plays a random Nakiri Ayame sound in your browser tab
 <br>
 Current voice count: **58 unique voices**
