@@ -4,7 +4,7 @@
 <br>
 ![Manifest version](https://img.shields.io/badge/Chrome%20Manifest%20Version-v3-F0B6D5?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333) 
 <br>
-![Version](https://img.shields.io/badge/Version-v1.1-ef0000?style=for-the-badge&labelColor=333333) | ![Beta Version](https://img.shields.io/badge/Version%20BETA-v1.2-FCBA03?style=for-the-badge&labelColor=333333) 
+![Version](https://img.shields.io/badge/Version-v1.1-ef0000?style=for-the-badge&labelColor=333333) ![Beta Version](https://img.shields.io/badge/Version%20BETA-v1.2-FCBA03?style=for-the-badge&labelColor=333333) 
 <br>
 ![Cups of coffee](https://img.shields.io/badge/Cups%20of%20coffee%20wasted-45-900c3f?logo=ko-fi&style=for-the-badge&logoColor=white&labelColor=333333)<br>
 <br>
