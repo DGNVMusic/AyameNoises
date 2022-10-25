@@ -52,4 +52,4 @@ You'll be credited in the README.md file if your changes are accepted and you wa
 This project is licensed under the MIT License. See the LICENSE.md file for more information.
 
 # Disclaimer
-This project is not affiliated with Hololive, Cover Corp. or any other company related to Hololive. All content used in this project is owned by their respective owners. This project is for educational purposes only.
+This project is not affiliated with Cover Corporation and any of it subsidaries (such as Hololive, Hololive English and Hololive Indonesia). All content used in this project is owned by their respective owners. This project is for entertainment purposes only. This project falls under fair use, since the project is remixing the original content provided by the talents of Hololive. If you are a representative of Cover Corp. or any of it's subsidaires and you want this project to be removed, please contact me and I will remove it as soon as possible.
