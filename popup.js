@@ -51,8 +51,15 @@
         "*pain*",
         "n~",
         "yada, yada, YADAAA, *crying*",
-        "I love you~ I need you~"
-
+        "I love you~ I need you~",
+        "AAAAAAA *crying*",
+        "Aaiiiooo",
+        "*attacking you*",
+        "GAOOO",
+        "Magical Banana",
+        "Pacman Mode",
+        "UWA x3",
+        "WAHHH"
     ]; // construct the array with text
     const quote = document.getElementById("quote") // get quote element
     audio.play(); // Play sound
