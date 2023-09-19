@@ -1,6 +1,6 @@
 
 # AyameNoises
-[![Chrome Status](https://img.shields.io/badge/Chrome%20Status-Published-19ba00?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333)](https://chrome.google.com/webstore/detail/ayame-noises/adjgpdjmlhloeacjfandkafohmcdhfpm) [![Chrome Status 1.2](https://img.shields.io/badge/Chrome%20Status%20v1.2-LIVE-19BA00?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333)](https://chrome.google.com/webstore/detail/ayame-noises/adjgpdjmlhloeacjfandkafohmcdhfpm)
+[![Chrome Status](https://img.shields.io/badge/Chrome%20Status-Published-19ba00?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333)](https://chrome.google.com/webstore/detail/ayame-noises/adjgpdjmlhloeacjfandkafohmcdhfpm) [![Chrome Status 1.3](https://img.shields.io/badge/Chrome%20Status%20v1.3-LIVE-19BA00?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333)](https://chrome.google.com/webstore/detail/ayame-noises/adjgpdjmlhloeacjfandkafohmcdhfpm)
 <br>
 ![Manifest version](https://img.shields.io/badge/Chrome%20Manifest%20Version-v3-F0B6D5?logo=google-chrome&style=for-the-badge&logoColor=white&labelColor=333333) 
 <br>
